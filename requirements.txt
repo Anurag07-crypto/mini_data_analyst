@@ -1,0 +1,12 @@
+langchain
+langchain_core
+langchain_community
+scikit-learn
+pandas
+numpy
+matplotlib
+langchain_groq
+langchain_sarvam_integration
+pydantic
+dotenv
+streamlit
